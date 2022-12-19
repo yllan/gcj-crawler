@@ -1,0 +1,17 @@
+{
+  "name": "gcj-crawler",
+  "version": "1.0.0",
+  "description": "Crawling the gcj submissions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ansi-colors": "^4.1.3",
+    "better-sqlite3": "^8.0.1",
+    "cli-progress": "^3.11.2",
+    "node-fetch": "^3.3.0"
+  }
+}
